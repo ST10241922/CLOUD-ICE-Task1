@@ -1,0 +1,2 @@
+C:\Users\aatif\source\repos\ASP.NET\ASP.NET\obj\Debug\DbContext.csproj.AssemblyReference.cache
+C:\Users\aatif\source\repos\ASP.NET\ASP.NET\obj\Debug\DbContext.csproj.CoreCompileInputs.cache
